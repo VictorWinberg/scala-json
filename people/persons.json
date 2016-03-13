@@ -1,0 +1,44 @@
+{
+	"initialSize": 16,
+	"array": 
+	[
+		{
+			"name": "Victor",
+			"age": 20,
+			"program": "D"
+		},
+
+		{
+			"name": "Anton",
+			"age": 20,
+			"program": "D"
+		},
+
+		{
+			"name": "Annie",
+			"age": 22,
+			"program": "C"
+		},
+
+		{
+			"name": "Hanna",
+			"age": 23,
+			"program": "C"
+		},
+
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null
+	],
+
+	"size0": 4
+}
