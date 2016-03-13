@@ -1,6 +1,6 @@
 *.class
 *.log
-
+.cache-main
 # sbt specific
 .cache
 .history
